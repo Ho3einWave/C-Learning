@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Wavly/Desktop/c/CalRectArea/cmake-build-debug/CMakeFiles/CalRectArea.dir
+/cygdrive/c/Users/Wavly/Desktop/c/CalRectArea/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Wavly/Desktop/c/CalRectArea/cmake-build-debug/CMakeFiles/rebuild_cache.dir

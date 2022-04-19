@@ -1,0 +1,10 @@
+C:\Users\Wavly\AppData\Local\JetBrains\CLion2022.1\cygwin_cmake\bin\cmake.exe -DCMAKE_BUILD_TYPE=Debug "-DCMAKE_MAKE_PROGRAM=/cygdrive/c/Program Files/JetBrains/CLion 2022.1/bin/ninja/cygwin/ninja.exe" -DCMAKE_C_COMPILER=/usr/bin/gcc.exe -G Ninja -S /cygdrive/c/Users/Wavly/Desktop/c/CalRectArea -B /cygdrive/c/Users/Wavly/Desktop/c/CalRectArea/cmake-build-debug
+-- The C compiler identification is GNU 11.2.0
+-- Detecting C compiler ABI info
+-- Detecting C compiler ABI info - done
+-- Check for working C compiler: /usr/bin/gcc.exe - skipped
+-- Detecting C compile features
+-- Detecting C compile features - done
+-- Configuring done
+-- Generating done
+-- Build files have been written to: /cygdrive/c/Users/Wavly/Desktop/c/CalRectArea/cmake-build-debug
