@@ -1,0 +1,3 @@
+/cygdrive/c/Users/Wavly/Desktop/c/C-Learning/Operators/cmake-build-debug/CMakeFiles/Oprators.dir
+/cygdrive/c/Users/Wavly/Desktop/c/C-Learning/Operators/cmake-build-debug/CMakeFiles/edit_cache.dir
+/cygdrive/c/Users/Wavly/Desktop/c/C-Learning/Operators/cmake-build-debug/CMakeFiles/rebuild_cache.dir
